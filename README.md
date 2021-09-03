@@ -1,3 +1,6 @@
+![banner](https://user-images.githubusercontent.com/86018280/131982884-2465e7ab-f055-46ba-95e6-910821702349.png)
+
+
 - 👋 Hi, I’m MR_Gando
 - 👀 I’m interested in Web Designing and Coding 
 - 🌱 I’m currently learning Git & Advanced javascript
