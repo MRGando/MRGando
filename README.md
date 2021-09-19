@@ -11,12 +11,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRGando&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRGando&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-```
-if (window.scrollY == 0) {
-      header.style.paddingTop = "2.5em";
-      header.style.background = "Transparent";
-      menu.style.backgroundColor = "Transparent";
-    }
-    ```
-
