@@ -8,7 +8,7 @@
 - 📫 How to reach me : wmails@yahoo.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRGando&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-api/pin?username=MRGando&repo=github-readme-stats
+
 
 
 <!---
