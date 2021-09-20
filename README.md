@@ -1,5 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/86018280/131982884-2465e7ab-f055-46ba-95e6-910821702349.png)
-[![Personal Site](http:fitdesign.ir)](http:fitdesign.ir)
+[![Personal Site](http:fitdesign.ir&style=flat)](http:fitdesign.ir)
 # Bio #
 - 👋 Hi, I’m Reza K. (AKA MR_Gando)
 - 👀 I’m interested in Web Designing and Coding in general 
