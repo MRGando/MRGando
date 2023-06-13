@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Reza K. (AKA MR_Gando)<br>👀 I’m interested in Web Designing and Coding in general<br>🌱 I’m currently learning Node.js and back-end<br>📫 How to reach me : https://fitdesign.ir
+👋 Hi, I’m Reza K. (AKA MR_Gando)<br>👀 I’m interested in Web Designing and Coding in general<br>🌱 I’m currently learning Redux and state management<br>📫 How to reach me : https://fitdesign.ir
 
 
 ## 🌐 Socials:
